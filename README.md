@@ -23,8 +23,6 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: Seeking Internships.
-
 - :seedling: Currently expanding my knowledge of backend with AltSchool Africa and also Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on w3schools and read tech articles.
